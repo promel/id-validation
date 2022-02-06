@@ -1,0 +1,11 @@
+E:\projects\C#\idValidation\bin\Debug\netcoreapp2.1\idValidation.deps.json
+E:\projects\C#\idValidation\bin\Debug\netcoreapp2.1\idValidation.runtimeconfig.json
+E:\projects\C#\idValidation\bin\Debug\netcoreapp2.1\idValidation.runtimeconfig.dev.json
+E:\projects\C#\idValidation\bin\Debug\netcoreapp2.1\idValidation.dll
+E:\projects\C#\idValidation\bin\Debug\netcoreapp2.1\idValidation.pdb
+E:\projects\C#\idValidation\obj\Debug\netcoreapp2.1\idValidation.csprojAssemblyReference.cache
+E:\projects\C#\idValidation\obj\Debug\netcoreapp2.1\idValidation.csproj.CoreCompileInputs.cache
+E:\projects\C#\idValidation\obj\Debug\netcoreapp2.1\idValidation.AssemblyInfoInputs.cache
+E:\projects\C#\idValidation\obj\Debug\netcoreapp2.1\idValidation.AssemblyInfo.cs
+E:\projects\C#\idValidation\obj\Debug\netcoreapp2.1\idValidation.dll
+E:\projects\C#\idValidation\obj\Debug\netcoreapp2.1\idValidation.pdb
